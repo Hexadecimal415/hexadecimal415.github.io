@@ -1,4 +1,4 @@
-洞窟物語+ Ogg11 配置文件
+洞窟物語+ Ogg11 配置文件 https://github.com/Hexadecimal415/hexadecimal415.github.io/tree/main
 
 如何使用：(適用於RetroArch模擬器)
 
